@@ -1,0 +1,50 @@
+╔═══════════════════════════════════════════════════════════╗
+║                 INDICE 4 : LA SÉCURITÉ FINALE             ║
+╚═══════════════════════════════════════════════════════════╝
+
+Zone de haute sécurité !
+
+**Fragment de code découvert** : [OMEGA]
+
+---
+
+ **TOUS LES FRAGMENTS COLLECTÉS !**
+
+    ✅ ALPHA
+    ✅ BETA
+    ✅ GAMMA
+    ✅ DELTA
+    ✅ EPSILON
+    ✅ OMEGA
+
+---
+
+**LE DÉFI ULTIME : L'ASSEMBLAGE**
+
+Le fichier 'secret.txt' existe à plusieurs endroits mais sous des formes différentes.
+Pour révéler le code final, vous devez :
+
+1. Créer une nouvelle ligne de développement appelée 'solution'
+2. Y rassembler TOUS les chemins que vous avez explorés
+3. Quand les versions entreront en conflit, gardez celle qui est COMPLÈTE
+4. Le code de sortie apparaîtra alors
+
+---
+
+**ATTENTION** :
+
+Lors du rassemblement, Git vous signalera un problème sur 'secret.txt'.
+C'est NORMAL. Vous devrez :
+- Ouvrir le fichier dans un éditeur
+- Choisir la version correcte (celle avec tous les fragments !)
+- Supprimer les marqueurs de conflit
+- Sauvegarder votre choix
+
+---
+
+**Réfléchissez** :
+- Comment créer une nouvelle ligne de développement ?
+- Comment y intégrer d'autres lignes ?
+- Comment résoudre un conflit ?
+
+**Le code de sortie vous attend dans le fichier assemblé !**
