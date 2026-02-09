@@ -1,0 +1,31 @@
+╔═══════════════════════════════════════════════════════════╗
+║               🔍 INDICE 1 : LE COMMENCEMENT               ║
+╚═══════════════════════════════════════════════════════════╝
+
+Félicitations ! Vous avez trouvé le premier fichier.
+
+**Fragment de code découvert** : [ALPHA]
+
+---
+
+**Message du développeur disparu** :
+
+    "Le code est dispersé dans différentes lignes de développement.
+     Trois chemins parallèles contiennent chacun une pièce du puzzle."
+
+---
+
+**Les trois chemins mystérieux** :
+
+    - Un chemin vers la base de données
+    - Un chemin vers l'interface
+    - Un chemin vers la sécurité
+
+---
+
+**PROCHAINE ÉTAPE** :
+
+Vous devez explorer ces différents chemins. Commencez par celui qui concerne
+les données persistantes.
+
+**Réfléchissez** : Comment naviguer entre différentes versions du code ?
