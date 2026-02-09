@@ -1,0 +1,34 @@
+╔═══════════════════════════════════════════════════════════╗
+║                   TRÉSOR CACHÉ DÉCOUVERT !                ║
+╚═══════════════════════════════════════════════════════════╝
+
+**BRAVO !** Vous avez l'œil !
+
+**Fragment de code découvert** : [GAMMA]
+
+---
+
+**Information confidentielle** :
+
+    "Le mot de passe final s'assemble dans l'ordre alphabétique.
+     Six pièces au total. Vous en avez trois.
+     
+     Mais le chemin n'est pas terminé. Un obstacle vous attend :
+     deux versions du même fichier entreront en conflit.
+     Il faudra choisir la bonne."
+
+---
+
+**Progression** :
+    ✅ ALPHA
+    ✅ BETA  
+    ✅ GAMMA
+    ⬜ ??? 
+    ⬜ ???
+    ⬜ ???
+
+---
+
+**DESTINATION SUIVANTE** :
+
+Le chemin de l'interface utilisateur. Explorez-le pour trouver d'autres indices.
