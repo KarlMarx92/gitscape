@@ -1,0 +1,32 @@
+╔═══════════════════════════════════════════════════════════╗
+║               INDICE 3 : L'INTERFACE UTILISATEUR          ║
+╚═══════════════════════════════════════════════════════════╝
+
+Bienvenue dans l'univers visuel !
+
+**Fragment de code découvert** : [DELTA]
+
+---
+
+**ÉNIGME DES VERSIONS** :
+
+"Le développeur aimait marquer les étapes importantes.
+Des étiquettes ont été posées sur certains commits.
+Ces marqueurs contiennent des messages cachés..."
+
+---
+
+**Votre mission** :
+
+1. Trouvez tous les marqueurs de version
+2. Examinez-les en détail - certains contiennent plus que leur nom
+3. La version majeure v1.0 est particulièrement intéressante
+
+**Indice** : Ces marqueurs ne sont pas des branches...
+
+---
+
+**DESTINATION FINALE** :
+
+Il reste un dernier chemin à explorer : celui de la sécurité.
+C'est là que se cache le sixième et dernier fragment.
