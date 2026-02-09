@@ -1,0 +1,31 @@
+╔═══════════════════════════════════════════════════════════╗
+║           🔍 INDICE 2 : LA BASE DE DONNÉES                ║
+╚═══════════════════════════════════════════════════════════╝
+
+Excellent travail ! Vous avez trouvé le bon chemin.
+
+**Fragment de code découvert** : [BETA]
+
+---
+
+**ÉNIGME** :
+
+"Dans les archives du temps, un trésor dort.
+Cherchez le commit portant les mots 'Hidden treasure'.
+Mais attention : il n'est peut-être pas sur cette branche..."
+
+---
+
+**Votre défi** :
+
+Trouvez ce commit mystérieux et examinez son contenu.
+
+**Questions** :
+- Comment chercher dans TOUS les commits de TOUTES les branches ?
+- Comment afficher le contenu d'un commit spécifique ?
+
+---
+
+**SUITE** :
+
+Une fois le trésor trouvé, continuez vers le chemin de l'interface utilisateur.
