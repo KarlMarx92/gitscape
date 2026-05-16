@@ -1,6 +1,4 @@
-# 🔐 BIENVENUE DANS L'ESCAPE ROOM GIT
-
-⏰ **Temps limite : 60 minutes**
+# BIENVENUE DANS L'ESCAPE ROOM GIT
 
 ## VOTRE MISSION
 
@@ -11,7 +9,7 @@ il a caché des indices cruciaux dans ce dépôt Git. Votre équipe doit :
 2. Résoudre les **conflits** pour reconstituer le message final
 3. Découvrir le **code de sortie** avant l'effacement définitif du serveur
 
-## ⚙️ RÈGLES DU JEU
+## RÈGLES DU JEU
 
 - Utilisez **UNIQUEMENT les commandes Git**
 - Chaque indice vous guidera vers le suivant
@@ -28,7 +26,7 @@ comment le projet est organisé.
 - Quel est l'historique du projet ?
 - Y a-t-il des éléments cachés ?
 
-💡 **Astuce** : Git a des commandes pour explorer l'historique et la structure...
+ **Astuce** : Git a des commandes pour explorer l'historique et la structure...
 
 ---
 
